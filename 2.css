@@ -1,0 +1,13 @@
+.messageTitle { padding: 20px; background-color: #ff9595; color: #523939; font-family: 'Dancing Script', cursive; font-size: 26pt; }
+
+.steal { font-family: 'Dancing Script', cursive; font-size: 18pt; }
+
+.content { background-color: #ffb2b2; }
+
+body { background-color: pink; }
+
+span { display: inline-block; white-space: pre; }
+
+.btn-outline-danger a { color: black; font-family: 'Dancing Script', cursive; font-size: 18pt; }
+
+.btn-outline-danger:hover {background-color: #ff9595; color: white}
